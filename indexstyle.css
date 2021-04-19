@@ -1,0 +1,37 @@
+body{
+    margin-left: 100px;
+    margin-right:100px;
+    background-color: azure;
+    }
+p, li{
+    font-size:18px;
+    padding:4px 2px;
+ }
+
+.header h1{
+    height:30%;
+    width:100%;
+    background-color:darkseagreen;
+    color:white;
+    font-family: "Lucida Sans", "sans-serif";
+    margin:0;
+	padding:24px 40px;
+    }
+
+.header h1 a, h1 a:hover {
+	color:#ac2626;
+	text-decoration:none;
+}
+.header h1 span {
+	color:whitesmoke;
+}
+p.infoUser {
+    width: 100%;
+	line-height:30px;
+    background-color: darkslategrey;
+    color:snow;
+}
+ #p1{
+    font-size: 20px;
+    text-align: center;
+}
