@@ -1,0 +1,59 @@
+body{
+    margin-left: 100px;
+    margin-right:100px;
+    background-color: azure;
+    }
+p, li{
+    font-size:18px;
+    padding:4px 2px;
+ }
+
+h1{
+    height:20%;
+    background-color:darkseagreen;
+    color:white;
+    font-family: "Lucida Sans", "sans-serif";
+    margin:0;
+	padding:10px;
+    text-decoration: none;
+    }
+.header{
+    width: 100%;
+    background-color:teal;
+    color: floralwhite;
+}
+
+.logo {
+	padding:0;
+	width:auto;
+    display: inline-flex;
+}
+span{
+    color: cornsilk;
+}
+.header h2 {
+	color:whitesmoke;
+	text-decoration:none;
+   margin-bottom: 8px;
+    font-size: 30px;
+
+}
+.header h2 small{
+    display: block;
+    margin-top: -4px;
+    padding-left: 10px;
+    letter-spacing: normal;
+}
+
+p.infoUser {
+    width: 100%;
+	line-height:30px;
+    background-color: darkslategrey;
+    color:snow;
+    letter-spacing: 1px;
+}
+
+ #p1{
+    font-size: 20px;
+    text-align: center;
+}
